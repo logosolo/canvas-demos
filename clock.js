@@ -1,5 +1,5 @@
  /*
-     canvas clock demo
+        canvas clock demo
  */
 
  var canvas = document.getElementById('canvas'),
